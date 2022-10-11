@@ -1,6 +1,15 @@
 # carrito_v3
 
-A new Flutter project.
+# carrito_v3
+# 1. Diseño del carrito del archivo main
+# 2. Diseño del carrito del archvio carrito
+---------------------------------------------------------
+# 1.
+![image](https://user-images.githubusercontent.com/101678630/195201591-a49a561b-bf2f-4e8b-bcec-b8523b1f8bab.png)
+
+----------------------------------------------------------
+# 2.
+![image](https://user-images.githubusercontent.com/101678630/195201693-0c930dd4-e267-42f4-ad4f-7807bff5510b.png)
 
 ## Getting Started
 
